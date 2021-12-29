@@ -1,0 +1,4 @@
+{
+  "api_key": "your_key on openweathermap.org",
+  "action": "copy this to settings.json with real values."
+}
